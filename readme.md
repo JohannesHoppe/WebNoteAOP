@@ -9,7 +9,7 @@ It comes in three flavors:
 
 # WebNoteAOP
 
-![WebNoteAOP](WebNoteAOP.png)
+![WebNoteAOP](https://raw.github.com/JohannesHoppe/WebNoteAOP/master/WebNoteAOP.png)
 
 A sample project for aspect oriented programming (AOP) with the PostSharp framework from SharpCrafters.
 It contains aspects for:
